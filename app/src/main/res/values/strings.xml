@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Unit2Pathway3ArtSpace</string>
+    <string name="Dice1">1. zar</string>
+    <string name="Dice1_Year">1.zar yil: 123456</string>
+    <string name="Dice2">2. zar</string>
+    <string name="Dice2_Year">2.zar yil: 234567</string>
+    <string name="Dice3">3. zar</string>
+    <string name="Dice3_Year">3.zar yil: 345678</string>
+    <string name="Dice4">4.zar</string>
+    <string name="Dice4_Year">4.zar yil: 456789</string>
+    <string name="Dice5">5.zar</string>
+    <string name="Dice5_Year">5.zar yil: 132131231</string>
+    <string name="Dice6">6.zar</string>
+    <string name="Dice6_Year">6.zar yil: 155421312</string>
+    
+    <string name="Button_Previous">Previous</string>
+    <string name="Button_Next">Next</string>
+</resources>
